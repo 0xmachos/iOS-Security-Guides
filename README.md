@@ -10,4 +10,4 @@
 | [March 2017](https://github.com/0xmachos/iOS-Security-Guides/blob/master/iOS_Security_Guide_March17.pdf)      |  `10`
 | [September 2017](https://github.com/0xmachos/iOS-Security-Guides/blob/master/FaceID_Security_Guide_Sept17.pdf) | `Face ID` |
 | [January 2018](https://github.com/0xmachos/iOS-Security-Guides/blob/master/iOS_Security_Guide_Jan18.pdf) 	| `11`			|
-
+| [September 2018](https://github.com/0xmachos/iOS-Security-Guides/blob/master/iOS_Security_Guide_September18.pdf) | `12` | 
