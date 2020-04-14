@@ -1,5 +1,7 @@
 # iOS-Security-Guides
 
+(Newer [Apple Platform Security Guides](https://github.com/0xmachos/Apple-Platform-Security-Guides))
+
 | Date            | iOS Version |
 | ----            | ----------- |
 | [May 2012](https://github.com/0xmachos/iOS-Security-Guides/blob/master/iOS_Security_Guide_May12.pdf)        | `6`           |
